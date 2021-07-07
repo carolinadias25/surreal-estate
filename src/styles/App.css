@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  margin: 0;
+  padding: 0;
+  background-color: lightgrey;
+  font-family: 'PT Serif', serif;
+}
